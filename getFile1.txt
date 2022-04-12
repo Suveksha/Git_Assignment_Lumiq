@@ -1,6 +1,2 @@
 Text before conflict from Branch 1
 This text is written from branch-a to resolve conflict.
-This is written from branch-b for conflict.
-
-Conflict solved by removing the conflict markers and keeping the content that we want. Edited with vim.
-
