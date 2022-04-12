@@ -1,1 +1,2 @@
 Text before conflict from Branch 1
+This text is written from branch-a to resolve conflict.
